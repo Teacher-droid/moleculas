@@ -17,5 +17,5 @@ Just download the files & open the index in Web browser (I suggest Brave or Goog
 
 You can access the project via the link : 
 
- `https://teacher-droid.github.io/ moleculas/`
+
 
